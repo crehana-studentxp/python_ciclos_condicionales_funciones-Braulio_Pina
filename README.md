@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/crehana-studentxp/react_fundamentos-dulcinea_pena">
+  <a href="https://github.com/crehana-studentxp/python_ciclos_condicionales_funciones-Braulio_Pina">
     <img src="images/project.png" alt="Logo" width="80" height="80">
   </a>
 
