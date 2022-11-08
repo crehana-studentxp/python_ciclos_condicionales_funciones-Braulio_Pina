@@ -1,4 +1,3 @@
-# python_ciclos_condicionales_funciones-Braulio_Pina
 <div id="top">
   <a href="https://www.crehana.com">
     <img src="images/logo.png" alt="Logo" width="50" height="50">
